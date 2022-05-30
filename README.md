@@ -10,6 +10,8 @@ This has left us in a tough spot here at ACME. The person you are replacing was 
 
 - A Flask app called `spotify` that has a basic interface, but doesn't have any defined database models, doesn't have any song data added to the database, and doesn't have the Machine Learning Model added to it yet!
 
+## Spotify Dataset of 1.2 million songs available on [Kaggle](https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs)
+
 ## Next Steps?
 
 If you could do the following it would really save our bacon:
@@ -47,3 +49,4 @@ If you can get everything I've listed above working then you're just amazing, bu
 - Can we get the site deployed to Heroku so that we can share a link to the app directly with the client rather than having to show them the development version on one of our computers?
 
 - Maybe we could use the [Spotify API](https://developer.spotify.com/documentation/web-api/) to get additional data about the songs that we have. If we could get information about the song's genre, I bet that would really help us make better recommendations!
+
